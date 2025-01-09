@@ -6,6 +6,13 @@ Este projeto é uma aplicação em Python para o gerenciamento de produtos de um
 
 ✨ Funcionalidades
 
+
+# Gerenciamento de Produtos - Loja AgilStore
+
+## 📋 Sobre o Projeto
+ Este projeto é uma aplicação em Python para o gerenciamento de produtos de uma loja, permitindo realizar operações básicas de controle de inventário, como adicionar, listar, buscar, atualizar e excluir produtos. A aplicação utiliza persistência de dados em um arquivo JSON para garantir que as informações sejam mantidas entre as execuções.
+
+## ✨ Funcionalidades
 Adicionar Produto:
 
 Permite inserir um novo produto com as seguintes informações:
